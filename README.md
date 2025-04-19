@@ -37,5 +37,23 @@ Follow these simple steps to get the bot up and running:
 
 1. **Clone the Repository**:
    ```shell
-   git clone https://github.com/your-username/telegram-music-downloader.git
-   cd telegram-music-downloader
+   git clone https://github.com/your-username/telegram-music-downloader.git](https://github.com/ARMAN01011/MUSIC-DOWNLOADER-TELEGRAM-BOT.git
+   ```
+   • **Go file directory**
+   ```shell
+   cd MUSIC-DOWNLOADER-TELEGRAM-BOT
+   ```
+
+   • **RUN THE SCRIPT**
+   ```shell
+   python3 run.py
+   ```
+
+👨‍💻 DeveloperCrafted with 💖 by - **MR ARMAN**
+
+📢 Join Our CommunityStay updated, get support, and connect with other music lovers! 🎉
+
+Telegram Channel : [TEAM_X_OG](https://t.me/TEAM_X_OG)
+Telegram Channel : [BotForgeHub](https://t.me/+t4vVZmzQIkA0YmU1)
+
+Start this repo if you love Music
