@@ -63,7 +63,7 @@ Follow these simple steps to get the bot up and running:
 ---
 
 ## Telegram Channel
-<a href="https://t.me/TEAM_X_OG" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; text-align: center; text-decoration: none; border-radius: 5px;">🥀 JOIN 🥀</a>
+<a href="https://t.me/TEAM_X_OG" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; text-align: center; text-decoration: none; border-radius: 5px;">🥀 JOIN 🥀</a>ㅤㅤㅤㅤㅤㅤㅤ
 <a href="https://t.me/+t4vVZmzQIkA0YmU1" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; text-align: center; text-decoration: none; border-radius: 5px;">🥀 JOIN 🥀</a>
 
 
