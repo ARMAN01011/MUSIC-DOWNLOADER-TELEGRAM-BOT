@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./BotForgeHub.jpg" alt="Telegram Music Downloader Bot Image" width="300">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/TELEGRAM-MUSIC_DOWNLOADER-1DA1F2?style=for-the-badge&logo=telegram" alt="Telegram Music Downloader Bot">
 </p>
 
@@ -58,7 +62,7 @@ Follow these simple steps to get the bot up and running:
 
 ---
 
-## Telegram Channel : [TEAM_X_OG](https://t.me/TEAM_X_OG)
+Telegram Channel : [TEAM_X_OG](https://t.me/TEAM_X_OG)
 
 Telegram Channel : [BotForgeHub](https://t.me/+t4vVZmzQIkA0YmU1)
 
