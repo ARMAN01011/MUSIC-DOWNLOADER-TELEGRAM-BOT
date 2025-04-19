@@ -49,11 +49,18 @@ Follow these simple steps to get the bot up and running:
    python3 run.py
    ```
 
-👨‍💻 DeveloperCrafted with 💖 by - **MR ARMAN**
+---
 
-📢 Join Our CommunityStay updated, get support, and connect with other music lovers! 🎉
+## 👨‍💻 Developer Crafted with 💖 by - **MR ARMAN**
 
-Telegram Channel : [TEAM_X_OG](https://t.me/TEAM_X_OG)
+---
+## 📢 Join Our Community Stay updated, get support, and connect with other music lovers! 🎉
+
+---
+
+## Telegram Channel : [TEAM_X_OG](https://t.me/TEAM_X_OG)
+
 Telegram Channel : [BotForgeHub](https://t.me/+t4vVZmzQIkA0YmU1)
 
-Start this repo if you love Music
+--- 
+## Start this repo if you love Music
